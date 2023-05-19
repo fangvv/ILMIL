@@ -18,3 +18,5 @@ This is the source code for our paper: **基于知识蒸馏的目标检测模型
     year={2022},
     publisher={工程科学与技术}
     }
+
+> Please note that the open source code in this repository was mainly completed by the graduate student author during his master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
