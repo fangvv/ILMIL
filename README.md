@@ -195,6 +195,10 @@ python example_mining.py
 - A CUDA-capable GPU is required for training.
 - The visdom server should be started before training for loss visualization: `python -m visdom.server`.
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find ILMIL useful or relevant to your project and research, please kindly cite our paper:
